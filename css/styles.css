@@ -1,0 +1,14 @@
+body { 
+     background-color: #F3EFE0;
+     background-image: url("https://www.shutterstock.com/image-photo/many-pills-neatly-stored-on-600w-80242480.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+    }
+hr {
+     border-color: grey;
+     border-style: none;
+     border-top-style: dotted;
+     border-width: 5px;
+     width:5%;
+     }
+    h1, h3 {color: #DC3535;}
